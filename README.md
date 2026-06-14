@@ -1,0 +1,2 @@
+# TermuxInfo
+Proyecto ara Termux
